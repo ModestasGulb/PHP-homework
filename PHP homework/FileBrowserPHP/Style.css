@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+    border: solid 2px;
+}
+
+th {
+    width: 33%;
+    background-color: cadetblue;
+    color: white;
+}
+
+td {
+    width: 33%;
+    background-color: lightgrey;
+}
